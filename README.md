@@ -24,13 +24,34 @@ I completed my undergraduate degree at UCT in Computer Science and Computer Engi
 
 ## 🛠️ Languages & Tools
 > ## Programming Languages
-<p align="center"><img alt="C" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> <img alt="C++" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> <img alt="Python" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img alt="Java" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> <img alt="Bash" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></p>
+<p align="center"><img alt="C, C++, C#, Python, Java, JavaScript, TypeScript, Bash, HTML, CSS" src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,bash,html,css&theme=dark&perline=10" /><br/><sub>Also: SQL · Assembly</sub></p>
 
-> ## Tools
-<p align="center"><img alt="Git" width="48" height="48" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> <img alt="VS Code" width="48" height="48" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /> <img alt="Jupyter" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" /></p>
+> ## Web & Backend
+<p align="center"><img alt="React, Next.js, Node.js, Express, Django, .NET" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,dotnet&theme=dark&perline=6" /><br/><sub>Django REST Framework · REST API design · authentication</sub></p>
+
+> ## AI & Machine Learning
+<p align="center"><img alt="PyTorch, TensorFlow" src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=2" /><br/><sub>Stable-Baselines3 · MuJoCo · reinforcement learning · experiment design</sub></p>
+
+> ## Databases
+<p align="center"><img alt="PostgreSQL, Supabase" src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark&perline=2" /><br/><sub>Microsoft SQL Server · schema design · versioned migrations</sub></p>
+
+> ## Cloud & Tools
+<p align="center"><img alt="Docker, AWS, Linux, Git, VS Code" src="https://skillicons.dev/icons?i=docker,aws,linux,git,vscode&theme=dark&perline=5" /> <img alt="Jupyter" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" /><br/><sub>AWS S3 · Docker Compose · Linux/WSL · pytest · JUnit · Agile/Scrum</sub></p>
+
+## 🚀 Projects
+- **Mo Pro Sound** · production e-commerce platform for a paying client. Built solo: design, database, backend, authentication and deployment. Live since May 2026 with 100+ products. *Next.js, TypeScript, PostgreSQL, Supabase*
+- **[Joe's Auto](https://joesautovaal.co.za)** · dealership inventory and sales-lead platform (in progress). Photo uploads go straight to AWS S3 via presigned URLs, and the admin area sits behind session authentication. *TypeScript, PostgreSQL, AWS S3, Docker Compose*
+- **[RoboChessGymnasium](https://github.com/ZeeshaanEbrahim/robochess_gymnasium)** · Honours research at Wits: a training environment where a simulated robot arm learns five manipulation tasks, with one-command experiments across 200+ runs. *Python, PyTorch, Stable-Baselines3, MuJoCo*
+- **Interactive Byte Pair Encoding Tokenizer** · full-stack tool that makes subword tokenisation steppable and inspectable. *Python, Django REST Framework, React*
+- **Hotel Booking Management System** · four-person UCT team project; I owned the relational schema and booking logic. *C#, .NET, Microsoft SQL Server*
+
+## 🎓 Education & Leadership
+- **B.Sc. Honours, Computer Science** · University of the Witwatersrand, 2026. Machine Learning, AI, Reinforcement Learning, Cybersecurity, Research Methods.
+- **B.Sc., Computer Science & Computer Engineering** · University of Cape Town, 2022 – 2025.
+- **Mentor and Fellow** · Absa Fellowship Leadership Programme, 2022 – present. Mentoring six junior fellows.
+- **Project Manager, Software Development Teams** · UCT, Aug – Oct 2024. Ran Agile sprints and code review across several teams.
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://github.com/ZeeshaanEbrahim"><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a></p>
-<!-- Add LinkedIn / email icons here, e.g. <a href="https://www.linkedin.com/in/YOUR-HANDLE"> -->
- <a href="https://www.linkedin.com/in/zeeshaan-ebrahim">
+<p align="center"><a href="https://github.com/ZeeshaanEbrahim"><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a> <a href="https://www.linkedin.com/in/zeeshaan-ebrahim"><img alt="LinkedIn" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a> <a href="https://zeeshaan.co.za"><img alt="Website" width="40" height="40" src="assets/website.svg" /></a></p>
+
 <img alt="github-snake" src="assets/snake.svg" />
