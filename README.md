@@ -7,17 +7,17 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=ZeeshaanEbrahim&theme=github-dark&mode=dark" alt="ZeeshaanEbrahim's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=ZeeshaanEbrahim&theme=nightowl&hide_border=true&cache_seconds=86400" alt="ZeeshaanEbrahim's GitHub Streak" width="49%" />
+  <img src="assets/stats.svg" alt="GitHub stats" width="49%" />
+  <img src="assets/streak.svg" alt="GitHub streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=ZeeshaanEbrahim&theme=github-dark&mode=dark" alt="Top Languages" />
+  <img src="assets/stack.svg" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=ZeeshaanEbrahim&theme=github-dark&mode=dark" alt="Highlights" />
+  <img src="assets/highlights.svg" alt="Highlights" />
 </p>
 <p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=ZeeshaanEbrahim&theme=github-dark&mode=dark" alt="Activity Graph" />
+  <img src="assets/heatmap.svg" alt="Contribution activity" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -31,4 +31,4 @@
 <p align="center"><a href="https://github.com/ZeeshaanEbrahim"><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a></p>
 <!-- Add LinkedIn / email icons here, e.g. <a href="https://www.linkedin.com/in/YOUR-HANDLE"> -->
 
-<img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=ZeeshaanEbrahim&theme=github-dark&mode=dark&style=snake" />
+<img alt="github-snake" src="assets/snake.svg" />

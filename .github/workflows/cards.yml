@@ -1,0 +1,39 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '17 */6 * * *' # every 6 hours
+  workflow_dispatch: # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths: [scripts/**, .github/workflows/cards.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node --test scripts/build-cards.test.mjs
+      - name: Build stat cards
+        run: node scripts/build-cards.mjs
+        env:
+          # Optional STATS_TOKEN (classic PAT, read:user) also counts private contributions.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+      - name: Build contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?palette=github-dark
+      - name: Commit if anything changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets
+          git diff --cached --quiet || { git commit -m 'chore: refresh profile cards' && git push; }
