@@ -3,7 +3,9 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em> Software developer, Data Scientist, Web developer, ML Engineer. I am multi faceted and have dipped my toes in many fields. In short, I get things done. </em>
+<em> Software developer, Data Scientist, Web developer, ML Engineer. I am multi faceted and have dipped my toes in many fields. In short, I get things done.
+I completed my undergraduate degree at UCT in Computer Science and Computer Engineering, dealing with everything from applications of algorithms to embedded systems. I also completed my Honours degree at Wits in Computer Science focusing on AI and ML with some work in the cybersecurity and robotics space as well as data science. 
+</em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -30,5 +32,5 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://github.com/ZeeshaanEbrahim"><img alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a></p>
 <!-- Add LinkedIn / email icons here, e.g. <a href="https://www.linkedin.com/in/YOUR-HANDLE"> -->
-
+ <a href="https://www.linkedin.com/in/zeeshaan-ebrahim">
 <img alt="github-snake" src="assets/snake.svg" />
