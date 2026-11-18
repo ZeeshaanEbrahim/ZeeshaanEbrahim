@@ -42,7 +42,8 @@ I completed my undergraduate degree at UCT in Computer Science and Computer Engi
 - **Mo Pro Sound** · production e-commerce platform for a paying client. Built solo: design, database, backend, authentication and deployment. Live since May 2026 with 100+ products. *Next.js, TypeScript, PostgreSQL, Supabase*
 - **[Joe's Auto](https://joesautovaal.co.za)** · dealership inventory and sales-lead platform (in progress). Photo uploads go straight to AWS S3 via presigned URLs, and the admin area sits behind session authentication. *TypeScript, PostgreSQL, AWS S3, Docker Compose*
 - **[RoboChessGymnasium](https://github.com/ZeeshaanEbrahim/robochess_gymnasium)** · Honours research at Wits: a training environment where a simulated robot arm learns five manipulation tasks, with one-command experiments across 200+ runs. *Python, PyTorch, Stable-Baselines3, MuJoCo*
-- **Interactive Byte Pair Encoding Tokenizer** · full-stack tool that makes subword tokenisation steppable and inspectable. *Python, Django REST Framework, React*
+- **[S&P 500 Price Forecasting](https://github.com/ZeeshaanEbrahim/sp500-price-forecasting)** · machine learning course project: four deep-learning models forecast next-day prices for nine tech stocks. The CNN-LSTM won with about half the error of the LSTM baseline. *Python, PyTorch*
+- **[Interactive Byte Pair Encoding Tokenizer](https://github.com/ZeeshaanEbrahim/ibpe-tokenizer)** · full-stack tool that makes subword tokenisation steppable and inspectable. *Python, Django REST Framework, React*
 - **Hotel Booking Management System** · four-person UCT team project; I owned the relational schema and booking logic. *C#, .NET, Microsoft SQL Server*
 
 ## 🎓 Education & Leadership
