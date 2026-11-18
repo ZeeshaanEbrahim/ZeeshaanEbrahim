@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="260" viewBox="0 0 860 260" role="img" aria-label="GitHub profile signal">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".54" stop-color="#161b22"/><stop offset="1" stop-color="#0d1117"/></linearGradient><radialGradient id="o0"><stop offset="0" stop-color="#58a6ff" stop-opacity="0.72"/><stop offset=".58" stop-color="#58a6ff" stop-opacity=".18"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient><radialGradient id="o1"><stop offset="0" stop-color="#39d353" stop-opacity="0.5"/><stop offset=".58" stop-color="#39d353" stop-opacity=".18"/><stop offset="1" stop-color="#39d353" stop-opacity="0"/></radialGradient><radialGradient id="o2"><stop offset="0" stop-color="#a371f7" stop-opacity="0.72"/><stop offset=".58" stop-color="#a371f7" stop-opacity=".18"/><stop offset="1" stop-color="#a371f7" stop-opacity="0"/></radialGradient><radialGradient id="o3"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.5"/><stop offset=".58" stop-color="#22d3ee" stop-opacity=".18"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient></defs>
+<style>
+.orb-a{animation:fa 9s ease-in-out infinite}.orb-b{animation:fb 11s ease-in-out infinite 1.1s}.orb-c{animation:fc 13s ease-in-out infinite .6s}
+.ring{animation:ring 8s ease-in-out infinite}.ring-b{animation:ring 10s ease-in-out infinite 1.6s}
+.chip{animation:chip .65s ease-out both}.cursor{animation:cur 1.1s step-end infinite}
+.bar{animation:bar 1.15s ease-out both;transform-box:fill-box;transform-origin:left}
+.cell{opacity:0;transform-box:fill-box;transform-origin:center;animation:pop .5s cubic-bezier(.2,.8,.2,1) both}
+@keyframes fa{0%,100%{transform:translate(0,0);opacity:.58}50%{transform:translate(28px,-20px);opacity:.86}}
+@keyframes fb{0%,100%{transform:translate(0,0);opacity:.42}50%{transform:translate(-24px,18px);opacity:.72}}
+@keyframes fc{0%,100%{transform:translate(0,0) scale(1);opacity:.34}50%{transform:translate(18px,-12px) scale(1.18);opacity:.62}}
+@keyframes ring{0%,100%{opacity:.06}50%{opacity:.22}}
+@keyframes chip{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes cur{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes bar{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes pop{0%{opacity:0;transform:scale(.15)}55%{opacity:1;transform:scale(1.12)}100%{opacity:1;transform:scale(1)}}</style>
+<rect width="860" height="260" rx="20" fill="url(#bg)"/><ellipse class="orb-a" cx="138" cy="47" rx="206" ry="120" fill="url(#o0)"/><ellipse class="orb-b" cx="654" cy="57" rx="241" ry="109" fill="url(#o1)"/><ellipse class="orb-c" cx="499" cy="229" rx="310" ry="88" fill="url(#o2)"/><ellipse class="orb-b" cx="826" cy="203" rx="172" ry="109" fill="url(#o3)"/><rect x="28" y="26" width="804" height="206" rx="20" fill="rgba(8,8,12,.5)" stroke="#58a6ff" stroke-opacity=".48"/>
+<circle class="ring" cx="735" cy="82" r="20.88" fill="none" stroke="#e6edf3" stroke-opacity=".36"/><circle class="ring-b" cx="735" cy="82" r="35.96" fill="none" stroke="#e6edf3" stroke-opacity=".22"/><circle class="ring" cx="735" cy="82" r="58" fill="none" stroke="#e6edf3" stroke-opacity=".14"/>
+<circle cx="758" cy="63" r="4" fill="#58a6ff"><animate attributeName="r" values="3.4;4.8;3.4" dur="1.6s" repeatCount="indefinite"/></circle><text x="46" y="61" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="28" font-weight="850" fill="#e6edf3" letter-spacing="-0.4">Profile Signal</text><text x="48" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="650" fill="#8b949e" letter-spacing="1.2">Live GitHub stats, rebuilt every few hours</text><g class="chip" style="animation-delay:0ms">
+<rect x="34" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,.5)" stroke="#58a6ff" stroke-opacity=".72"/>
+<text x="56" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" fill="#8b949e" letter-spacing="1.4">Stars</text><text x="56" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" fill="#58a6ff" letter-spacing="-0.8">0</text>
+<rect x="56" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,.1)"/><rect class="bar" x="56" y="186" width="11" height="7" rx="3.5" fill="#58a6ff" opacity=".9"/></g><g class="chip" style="animation-delay:100ms">
+<rect x="238" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,.5)" stroke="#58a6ff" stroke-opacity=".72"/>
+<text x="260" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" fill="#8b949e" letter-spacing="1.4">Contributions</text><text x="260" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" fill="#2ad5ef" letter-spacing="-0.8">100</text>
+<rect x="260" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,.1)"/><rect class="bar" x="260" y="186" width="14" height="7" rx="3.5" fill="#2ad5ef" opacity=".9"/></g><g class="chip" style="animation-delay:200ms">
+<rect x="442" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,.5)" stroke="#58a6ff" stroke-opacity=".72"/>
+<text x="464" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" fill="#8b949e" letter-spacing="1.4">Repos</text><text x="464" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" fill="#a371f7" letter-spacing="-0.8">5</text>
+<rect x="464" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,.1)"/><rect class="bar" x="464" y="186" width="14" height="7" rx="3.5" fill="#a371f7" opacity=".9"/></g><g class="chip" style="animation-delay:300ms">
+<rect x="646" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,.5)" stroke="#58a6ff" stroke-opacity=".72"/>
+<text x="668" y="126" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="800" fill="#8b949e" letter-spacing="1.4">Followers</text><text x="668" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="35" font-weight="900" fill="#43d55c" letter-spacing="-0.8">1</text>
+<rect x="668" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,.1)"/><rect class="bar" x="668" y="186" width="11" height="7" rx="3.5" fill="#43d55c" opacity=".9"/></g>
+<rect x=".5" y=".5" width="859" height="259" rx="19.5" fill="none" stroke="#58a6ff" stroke-opacity=".62"/>
+</svg>
