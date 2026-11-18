@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>Building useful things with C, Assembly and Python, and shipping in public.</em>
+- 💡 <em> Software developer, Data Scientist, Web developer, ML Engineer. I am multi faceted and have dipped my toes in many fields. In short, I get things done. </em>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
